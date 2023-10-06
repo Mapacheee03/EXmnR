@@ -1,0 +1,15 @@
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\bin\Debug\net7.0\R-ESTRUCTURA.exe
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\bin\Debug\net7.0\R-ESTRUCTURA.deps.json
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\bin\Debug\net7.0\R-ESTRUCTURA.runtimeconfig.json
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\bin\Debug\net7.0\R-ESTRUCTURA.dll
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\bin\Debug\net7.0\R-ESTRUCTURA.pdb
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.csproj.AssemblyReference.cache
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.AssemblyInfoInputs.cache
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.AssemblyInfo.cs
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.csproj.CoreCompileInputs.cache
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.dll
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\refint\R-ESTRUCTURA.dll
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.pdb
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\R-ESTRUCTURA.genruntimeconfig.cache
+C:\Users\CD16\Desktop\R-ESTRUCTURA\R-ESTRUCTURA\obj\Debug\net7.0\ref\R-ESTRUCTURA.dll
